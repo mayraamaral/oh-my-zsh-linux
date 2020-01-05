@@ -22,6 +22,7 @@ A resposta deve ser parecida com essa (a versão pode ser diferente):
   
 ![zsh version](zsh-version.png)
   
+Para qualquer informação adicional:  
 [Guia de instalação do Zsh - [INGLÊS]](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) 
 
 ## 2. Configurando o Zsh como terminal padrão
