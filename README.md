@@ -55,8 +55,7 @@ Caso tenha tido problema com a instalação do Zsh e deseje desinstalá-lo para 
   
 ```chsh -s /bin/bash``` 
 
-ALguns links de respostas em fóruns que podem ser úteis caso tenha problema:  
-  
+Alguns links de respostas em fóruns que podem ser úteis caso tenha problema:  
 [Remove Zsh from Ubuntu - [INGLÊS]](https://askubuntu.com/questions/958120/remove-zsh-from-ubuntu-16-04) 
   
 ## Desinstalando o Oh My Zsh
