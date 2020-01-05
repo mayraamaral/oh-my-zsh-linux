@@ -72,11 +72,12 @@ Caso não consiga, tente este outro:
   
 Caso ainda não consiga, coloque o **sudo** na frente do código anterior e irá conseguir, desta forma:  
   
-```sudo rm -rf ~/.oh-my-zsh``` 
+```sudo rm -rf ~/.oh-my-zsh```  
 
+Links adicionais: 
+  
 [Site oficial do Oh My Zsh - [INGLÊS]](https://ohmyz.sh)  
   
 Alguns links de respostas em fóruns que podem ser úteis:  
-  
 [Troubes uninstalling oh-my-zsh - [INGLÊS]](https://stackoverflow.com/questions/9813983/troubles-uninstalling-oh-my-zsh) - Esse foi o único que funcionou para mim.  
-[Uninstall Oh My Zsh - [INGLÊS]](https://askubuntu.com/questions/963874/uninstall-oh-my-zsh)
+[Uninstall Oh My Zsh - [INGLÊS]](https://askubuntu.com/questions/963874/uninstall-oh-my-zsh)  
