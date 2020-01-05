@@ -1,4 +1,4 @@
-# Oh my Zsh no Linux
+# Oh My Zsh no Linux
 Tentei seguir o [post do blog da Rocketseat](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), porém enfrentei alguns problemas e resolvi compartilhar todo o passo a passo que segui para conseguir usar o Zsh com o framework Oh My Zsh no 
 Linux Ubuntu 18.04.  
 ## Guia
