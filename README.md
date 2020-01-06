@@ -1,10 +1,10 @@
-# Oh My Zsh no Linux
-Tentei seguir o [post do blog da Rocketseat](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), porém enfrentei alguns problemas e resolvi compartilhar todo o passo a passo que segui para conseguir usar o Zsh com o framework Oh My Zsh no 
+# Como instalar Zsh e Oh My Zsh no Linux - Tutorial
+Tive como guia o [post do blog da Rocketseat](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), porém enfrentei alguns problemas e resolvi compartilhar todo o passo a passo que segui para conseguir usar o Zsh com o framework Oh My Zsh no 
 Linux Ubuntu 18.04.  
 ## Guia
 - [1. Instalando o Zsh](#1-instale-o-zsh)
-- [2. Configurando o Zsh como terminal padrão](#configurando-o-zsh-como-terminal-padrão)
-- [3. Instalando o Oh My Zsh](#2-instale-o-oh-my-zsh)
+- [2. Configurando o Zsh como terminal padrão](#2-configurando-o-zsh-como-terminal-padrão)
+- [3. Instalando o Oh My Zsh](#3-instale-o-oh-my-zsh)
 - [Desinstalando o Zsh](#desinstalando-o-zsh)
 - [Desinstalando o Oh My Zsh](#desinstalando-o-oh-my-zsh)
 ## 1. Instale o Zsh
